@@ -1,6 +1,6 @@
 # My first GitHub repo 
 
- Myo Minn Oo created this repo for the first time. Below are some exerpts from [What Is GitHub? A Beginner’s Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/) by Kinsta.
+[Your Name] created this repo for the first time. Below are some exerpts from [What Is GitHub? A Beginner’s Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/) by Kinsta.
 
 ## What is GitHub? 
 
@@ -22,3 +22,11 @@ With **branching**, a developer duplicates part of the source code (called the r
 Then, once the developer gets his or her part of the code working properly, he or she can merge that code back into the main source code to make it official.
 
 All of these changes are then tracked and can be reverted if need be.
+
+## What Is Git?
+
+Git is a specific open-source version control system created by Linus Torvalds in 2005.
+
+Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
+
+According to a [Stack Overflow developer survey](https://insights.stackoverflow.com/survey/2018/#work-version-control), over 87% of developers use Git.
